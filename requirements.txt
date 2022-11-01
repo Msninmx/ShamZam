@@ -1,0 +1,4 @@
+numpy==1.22.2
+scipy==1.8.1
+matplotlib==3.5.1
+mljar-mercury==1.1.6
